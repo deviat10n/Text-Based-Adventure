@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\tomje\desktop\task 2\task 2\task 2\main.cpp(92): warning C4101: 'roomNumber': unreferenced local variable
+c:\users\tomje\desktop\task 2\task 2\task 2\main.cpp(914): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Task 2.vcxproj -> C:\Users\tomje\Desktop\Task 2\Task 2\Debug\Task 2.exe
+  Task 2.vcxproj -> C:\Users\tomje\Desktop\Task 2\Task 2\Debug\Task 2.pdb (Partial PDB)
